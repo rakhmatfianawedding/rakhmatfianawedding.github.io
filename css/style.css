@@ -105,7 +105,7 @@ body {
 .section-1 {
     height: 100vh;
     background: url("../img/section1/slide.jpeg") no-repeat;
-    background-position: top left;
+    background-position: center;
     background-attachment: scroll;
     background-size: cover;
 }
