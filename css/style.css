@@ -104,7 +104,7 @@ body {
 
 .section-1 {
     height: 100vh;
-    background: url("../img/section1/slide.jpg") no-repeat;
+    background: url("../img/section1/slide.jpeg") no-repeat;
     background-position: top left;
     background-attachment: scroll;
     background-size: cover;
@@ -212,10 +212,10 @@ body {
 
 
 .bridegroom {
-    background: url("../img/section2/he2.jpg");
+    background: url("../img/section2/he.jpeg");
     background-repeat: no-repeat;
     background-size: 80%;
-    background-position: center;
+    background-position: top;
     margin: 0 auto;
     text-align: center;
     padding: 0;
@@ -224,7 +224,7 @@ body {
 
 
 .bride {
-    background: url("../img/section2/she.jpg");
+    background: url("../img/section2/she.jpeg");
     background-repeat: no-repeat;
     background-size: 80%;
     background-position: center;
